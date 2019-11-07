@@ -1,0 +1,9 @@
+.SearchHero {
+  display: block;
+  margin: 10px;
+  padding: 5px;
+  border: solid;
+  border-color: #a1160e;
+  font-size: 24px;
+  color: #383535;
+}
